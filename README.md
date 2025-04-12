@@ -11,3 +11,6 @@ A basic web-based game created using JavaScript to enhance my programming logic 
 - HTML5
 - CSS3
 - JavaScript
+
+## 🚀 Live Demo
+[Play Game](https://15720022sasa.github.io/game)

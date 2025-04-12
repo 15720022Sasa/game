@@ -1,3 +1,3 @@
 # game 
-A JavaScript-based game project. Details about the game's mechanics and objectives are not specified in the repository.​
+A simple browser-based game created with JavaScript, focusing on interactive logic and event-driven gameplay. This project enhances my understanding of JavaScript fundamentals through hands-on game development.
 https://15720022sasa.github.io/game/

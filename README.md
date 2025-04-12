@@ -1,3 +1,13 @@
-# game 
-A simple browser-based game created with JavaScript, focusing on interactive logic and event-driven gameplay. This project enhances my understanding of JavaScript fundamentals through hands-on game development.
-https://15720022sasa.github.io/game/
+# Simple JavaScript Game
+
+A basic web-based game created using JavaScript to enhance my programming logic and event-driven development skills.
+
+## 💡 Features
+- Lightweight and fun to play
+- JavaScript logic-driven gameplay
+- A practical exercise in web game development
+
+## 📌 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
